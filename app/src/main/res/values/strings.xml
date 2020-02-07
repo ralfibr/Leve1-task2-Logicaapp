@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Logica app</string>
+    <string name="title" > Conjunction(AND)</string>
+    <string name="correct" >The correct number of answers is: %d</string>
+</resources>
